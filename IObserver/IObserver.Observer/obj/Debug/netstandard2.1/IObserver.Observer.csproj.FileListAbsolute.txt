@@ -1,0 +1,10 @@
+D:\Gnana_Projects\IObserver\IObserver.Observer\bin\Debug\netstandard2.1\IObserver.Observer.deps.json
+D:\Gnana_Projects\IObserver\IObserver.Observer\bin\Debug\netstandard2.1\IObserver.Observer.dll
+D:\Gnana_Projects\IObserver\IObserver.Observer\bin\Debug\netstandard2.1\IObserver.Observer.pdb
+D:\Gnana_Projects\IObserver\IObserver.Observer\obj\Debug\netstandard2.1\IObserver.Observer.csproj.AssemblyReference.cache
+D:\Gnana_Projects\IObserver\IObserver.Observer\obj\Debug\netstandard2.1\IObserver.Observer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gnana_Projects\IObserver\IObserver.Observer\obj\Debug\netstandard2.1\IObserver.Observer.AssemblyInfoInputs.cache
+D:\Gnana_Projects\IObserver\IObserver.Observer\obj\Debug\netstandard2.1\IObserver.Observer.AssemblyInfo.cs
+D:\Gnana_Projects\IObserver\IObserver.Observer\obj\Debug\netstandard2.1\IObserver.Observer.csproj.CoreCompileInputs.cache
+D:\Gnana_Projects\IObserver\IObserver.Observer\obj\Debug\netstandard2.1\IObserver.Observer.dll
+D:\Gnana_Projects\IObserver\IObserver.Observer\obj\Debug\netstandard2.1\IObserver.Observer.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IObserver.Console", "IObserver.Console\IObserver.Console.csproj", "{8D67433B-C9FF-467C-84AA-A2820E0C51C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IObserver.Observer", "IObserver.Observer\IObserver.Observer.csproj", "{EDCBF3FD-8775-4A1A-82CC-2C6F4DB7B443}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D67433B-C9FF-467C-84AA-A2820E0C51C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D67433B-C9FF-467C-84AA-A2820E0C51C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D67433B-C9FF-467C-84AA-A2820E0C51C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D67433B-C9FF-467C-84AA-A2820E0C51C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDCBF3FD-8775-4A1A-82CC-2C6F4DB7B443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDCBF3FD-8775-4A1A-82CC-2C6F4DB7B443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDCBF3FD-8775-4A1A-82CC-2C6F4DB7B443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDCBF3FD-8775-4A1A-82CC-2C6F4DB7B443}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71218D7F-F379-4C12-8055-D69E1E38E6BB}
+	EndGlobalSection
+EndGlobal
